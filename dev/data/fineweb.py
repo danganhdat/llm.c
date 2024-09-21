@@ -168,3 +168,5 @@ if __name__ == '__main__':
             split = "val" if shard_index == 0 else "train"
             filename = os.path.join(DATA_CACHE_DIR, f"{name}_{split}_{shard_index:06d}.bin")
             write_datafile(filename, (all_tokens_np[:token_count]).tolist(), args.model_desc)
+
+# A TEST TO SHOW CONNECTED TO WSL: UBUNTU AND COMMITED
