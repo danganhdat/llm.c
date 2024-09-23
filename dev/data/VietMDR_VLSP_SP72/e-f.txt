@@ -1,0 +1,4206 @@
+{
+	"Document": {
+		"Entry": [
+			{
+				"HeadWord": "e",
+				"Morphology": {
+					"WordType": "symbol"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "con chữ thứ tám của bảng chữ cái chữ quốc ngữ"
+				}
+			},
+			{
+				"HeadWord": "e",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Clause"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "Clause"
+								}
+							]
+						}
+					]
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion",
+						"Synonym": "ngại"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Exp"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "So"
+									}
+								]
+							}
+						]
+					},
+					"def": "có phần không yên lòng vì nghĩ rằng có thể có điều ít nhiều không hay, không tốt nào đó xảy ra",
+					"exam": "tôi e việc này khó thành ~ tôi e đường sá khó đi"
+				}
+			},
+			{
+				"HeadWord": "e",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Clause"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "Clause"
+								}
+							]
+						}
+					]
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "CognitiveAct",
+						"Synonym": "sợ"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Exp"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "So"
+									}
+								]
+							}
+						]
+					},
+					"def": "biểu thị ý khẳng định dè dặt về điều ít nhiều không hay, không tốt nào đó [lối nói lịch sự, dùng trong đối thoại]",
+					"exam": "tôi e ngần này không đủ"
+				}
+			},
+			{
+				"HeadWord": "e ấp",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP, VP, AP"
+								}
+							]
+						}
+					],
+					"Before": "R: cứ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								}
+							}
+						]
+					},
+					"def": "ngại ngùng, không mạnh dạn bộc lộ hết tâm tư, tình cảm",
+					"exam": "cô e ấp mãi không nói nên lời"
+				}
+			},
+			{
+				"HeadWord": "e ấp",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ai"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "e lệ"
+					},
+					"def": "có dáng vẻ bẽn lẽn, thẹn thùng [thường nói về các thiếu nữ]",
+					"exam": "nụ cười e ấp dưới vành nón trắng"
+				}
+			},
+			{
+				"HeadWord": "e dè",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion",
+						"Synonym": "e ngại, e sợ"
+					},
+					"def": "lo ngại, dè dặt vì có phần sợ điều không hay có thể xảy ra cho mình",
+					"exam": "chị vẫn e dè, giữ ý với tôi"
+				}
+			},
+			{
+				"HeadWord": "e hèm",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Physiology"
+					},
+					"def": "[tiếng] phát mạnh ra từ trong họng, thường để ra hiệu hoặc lấy giọng trước khi nói, đọc"
+				}
+			},
+			{
+				"HeadWord": "e lệ",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ai"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "e ấp"
+					},
+					"def": "[phụ nữ] rụt rè, có ý thẹn khi tiếp xúc với đám đông hoặc với nam giới, khiến cho thêm phần duyên dáng và đáng yêu",
+					"exam": "\"Chàng Vương quen mặt ra chào, Hai Kiều e lệ nép vào dưới hoa.\" (TKiều)"
+				}
+			},
+			{
+				"HeadWord": "e ngại",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					],
+					"Before": "R: rất, khá"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion",
+						"Synonym": "e dè, e sợ"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "lo, ngại vì sợ có thể xảy ra điều không hay cho mình",
+					"exam": "chị e ngại gia đình anh"
+				}
+			},
+			{
+				"HeadWord": "e sợ",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Clause"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "Clause"
+								}
+							]
+						}
+					],
+					"Before": "R: đang, vẫn, không, chẳng, rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion",
+						"Synonym": "e dè, e ngại"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Exp"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "So"
+									}
+								]
+							}
+						]
+					},
+					"def": "có phần sợ nên ngần ngại",
+					"exam": "ông e sợ dân chúng sẽ mất lòng tin ở ông"
+				}
+			},
+			{
+				"HeadWord": "e thẹn",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP, VP, AP"
+								}
+							]
+						}
+					],
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Emotion"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								}
+							}
+						]
+					},
+					"def": "ngại ngùng và hay thẹn",
+					"exam": "tôi e thẹn không dám gắp thức ăn ~ tôi e thẹn không dám vào"
+				}
+			},
+			{
+				"HeadWord": "è",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đang"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act",
+						"Synonym": "trằn"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									},
+									{
+										"_att": "categorialMeaning",
+										"_val": "PersonPart"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Content"
+									}
+								]
+							}
+						]
+					},
+					"def": "đưa hết sức lực của cơ thể ra để làm một việc quá nặng",
+					"exam": "nó è vai vác bao gạo ~ è lưng kéo chiếc xe bò"
+				}
+			},
+			{
+				"HeadWord": "è ạch",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "ì ạch",
+					"exam": "è ạch lôi chiếc xe qua bãi lầy"
+				}
+			},
+			{
+				"HeadWord": "è cổ",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP, VP, AP"
+								}
+							]
+						}
+					],
+					"Before": "R: đang"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Exist",
+						"Synonym": "nai lưng"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								}
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								}
+							}
+						]
+					},
+					"def": "phải gánh chịu một việc quá cực nhọc, vất vả, hoàn toàn trái với ý muốn",
+					"exam": "vay mượn nhiều, nên bây giờ nó đang è cổ ra mà trả nợ"
+				}
+			},
+			{
+				"HeadWord": "é",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Vegetable"
+					},
+					"def": "húng dổi",
+					"exam": "bụi rau é ~ hạt é"
+				}
+			},
+			{
+				"HeadWord": "ẹ",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "dơ dáy, bẩn thỉu [ngôn ngữ của trẻ con]",
+					"exam": "tay bé ẹ quá"
+				}
+			},
+			{
+				"HeadWord": "ebonite",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Material"
+					},
+					"def": "cao su chứa nhiều lưu huỳnh, cứng và đen, dùng làm chất cách điện"
+				}
+			},
+			{
+				"HeadWord": "éc",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"def": "từ mô phỏng tiếng kêu to của lợn"
+				}
+			},
+			{
+				"HeadWord": "El Nino",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Np"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "NaturalPhenomenon"
+					},
+					"def": "[tiếng Tây Ban Nha: El Niủo, có nghĩa là \"cậu bé\"] hiện tượng không khí vùng ven biển nhiệt đới từ Nam Mĩ đến tây Thái Bình Dương bị nóng lên đột ngột do chịu ảnh hưởng của các khối khí lớn chuyển động thẳng đứng từ trên xuống, khiến thời tiết trở nên k"
+				}
+			},
+			{
+				"HeadWord": "electron",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept",
+						"Synonym": "điện tử"
+					},
+					"def": "hạt cơ bản rất nhỏ, thành phần cấu tạo của nguyên tử, mang điện tích âm, khi chuyển động tạo thành dòng điện"
+				}
+			},
+			{
+				"HeadWord": "ellipse",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "quỹ tích các điểm trong mặt phẳng mà tổng các khoảng cách tới hai điểm cố định bằng một số không đổi cho trước"
+				}
+			},
+			{
+				"HeadWord": "em",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người cùng một thế hệ trong gia đình, trong họ, nhưng thuộc hàng dưới [sinh sau, là con nhà chú, v.v.], trong quan hệ với anh, chị của mình [có thể dùng để xưng gọi]",
+					"exam": "em gái ruột ~ em họ ~ em dâu ~ chị ngã em nâng (tng)"
+				}
+			},
+			{
+				"HeadWord": "em",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nc"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "từ dùng để chỉ hoặc gọi người còn nhỏ tuổi, hay dùng để gọi người vai em mình một cách thân mật hoặc để tự xưng một cách thân mật với người vai anh, chị mình",
+					"exam": "em gái nhỏ ~ các em thiếu nhi"
+				}
+			},
+			{
+				"HeadWord": "em",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "từ giáo viên dùng để gọi học sinh hoặc học sinh dùng để tự xưng khi nói với giáo viên",
+					"exam": "thưa cô cho em vào lớp! ~ em chào thầy!"
+				}
+			},
+			{
+				"HeadWord": "em",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "từ người đàn ông dùng để gọi vợ, người yêu, hoặc người phụ nữ dùng để tự xưng khi nói với chồng, người yêu",
+					"exam": "\"Tình anh như nước dâng cao, Tình em như dải lụa đào tẩm hương.\" (Cdao)"
+				}
+			},
+			{
+				"HeadWord": "em em",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "suýt soát, không chênh lệch bao nhiêu",
+					"exam": "hai đứa tuổi cũng em em nhau ~ mới đó mà cũng em em hai năm rồi"
+				}
+			},
+			{
+				"HeadWord": "em gái",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "em ruột, thuộc nữ giới, phân biệt với em họ, em dâu",
+					"exam": "cô em gái ~ quý em dâu như em gái"
+				}
+			},
+			{
+				"HeadWord": "em trai",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "em ruột, thuộc nam giới, phân biệt với em họ, em rể"
+				}
+			},
+			{
+				"HeadWord": "em út",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người em sau cùng hoặc nhỏ tuổi nhất trong hàng các em trong nhà",
+					"exam": "là em út trong nhà nên rất được chiều"
+				}
+			},
+			{
+				"HeadWord": "em út",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người thuộc hàng em, trong quan hệ gia đình, họ hàng hoặc được coi như em [nói khái quát]",
+					"exam": "thay bố mẹ dạy bảo em út ~ coi cô ấy như em út trong nhà"
+				}
+			},
+			{
+				"HeadWord": "em út",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người dưới quyền, là tay chân giúp việc thân tín",
+					"exam": "bọn em út của tên đầu sỏ"
+				}
+			},
+			{
+				"HeadWord": "em út",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người con gái, nói trong quan hệ yêu đương, trai gái [thường là không đứng đắn]"
+				}
+			},
+			{
+				"HeadWord": "ém",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "PP"
+								}
+							]
+						}
+					],
+					"Before": "R: đang"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Theme"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Lo"
+									}
+								]
+							}
+						]
+					},
+					"def": "nhét mép chăn, màn xuống để cho kín",
+					"exam": "mẹ ém màn xuống dưới chiếu"
+				}
+			},
+			{
+				"HeadWord": "ém",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vs",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP, VP, AP"
+								}
+							]
+						}
+					]
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								}
+							}
+						]
+					},
+					"def": "nép vào hay nén xuống, để cho khỏi lộ ra",
+					"exam": "nó ém vào tường ~ ém tiếng khóc"
+				}
+			},
+			{
+				"HeadWord": "ém",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act",
+						"Synonym": "ém nhẹm, ỉm"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "giấu kín, không để lộ cho biết",
+					"exam": "tôi ém bức thư đi ~ ém quân"
+				}
+			},
+			{
+				"HeadWord": "ém",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					]
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "ép cho nhỏ lại hoặc cho dính chặt với nhau",
+					"exam": "ém một bát cơm đầy ~ ém thêm thuốc lào vào điếu"
+				}
+			},
+			{
+				"HeadWord": "ém nhẹm",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Appropriate",
+						"Synonym": "ém, ỉm"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "giấu thật kín, không để lộ cho ai biết",
+					"exam": "bọn họ ém nhẹm vụ việc"
+				}
+			},
+			{
+				"HeadWord": "emetine",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Drug"
+					},
+					"def": "một loại alkaloid, dùng làm thuốc chữa lị amib"
+				}
+			},
+			{
+				"HeadWord": "én",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: bầy, chú, con, đàn, lũ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Bird"
+					},
+					"def": "chim nhỏ, lông màu đen, cánh dài và nhọn, chân ngắn, bay nhanh, thường gặp nhiều vào mùa xuân",
+					"exam": "cánh én ~ rợp trời chim én liệng"
+				}
+			},
+			{
+				"HeadWord": "eng éc",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "từ mô phỏng tiếng lợn kêu to và kéo dài liên tiếp, nghe chói tai",
+					"exam": "lợn kêu eng éc"
+				}
+			},
+			{
+				"HeadWord": "entropy",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "số đo độ lộn xộn hay độ hỗn loạn bên trong một hệ thống"
+				}
+			},
+			{
+				"HeadWord": "enzyme",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "chất hữu cơ do tế bào sống tạo ra, có tác dụng xúc tác các phản ứng hoá học xảy ra trong cơ thể"
+				}
+			},
+			{
+				"HeadWord": "eo",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "thắt nhỏ dần lại ở quãng giữa",
+					"exam": "quả bầu eo ~ lưng eo"
+				}
+			},
+			{
+				"HeadWord": "eo",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "chỗ, vùng thắt nhỏ dần lại ở quãng giữa",
+					"exam": "vòng eo ~ ôm eo ~ nông trường nằm lọt trong eo núi"
+				}
+			},
+			{
+				"HeadWord": "eo biển",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"After": "Pd: ấy, đấy, đó, kia, này"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "BodyOfWater"
+					},
+					"def": "phần biển dài và hẹp nằm ở giữa hai khoảng đất, nối liền hai biển với nhau"
+				}
+			},
+			{
+				"HeadWord": "eo đất",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: dải",
+					"After": "Pd: ấy, đấy, đó, kia, này"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Land"
+					},
+					"def": "phần đất dài và hẹp, hai bên là biển"
+				}
+			},
+			{
+				"HeadWord": "eo éo",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Sound"
+					},
+					"def": "từ mô phỏng những tiếng nói liên tiếp, nghe chói tai và không rõ, gây cảm giác khó chịu",
+					"exam": "tiếng gọi nhau eo éo ngoài ngõ ~ giọng eo éo như đàn bà"
+				}
+			},
+			{
+				"HeadWord": "eo ếch",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái, chiếc"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "PersonPart"
+					},
+					"def": "vùng thắt lưng",
+					"exam": "ôm ngang eo ếch"
+				}
+			},
+			{
+				"HeadWord": "eo hẹp",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: quá, rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "hạn hẹp"
+					},
+					"def": "thiếu, hạn chế, không có nhiều, không được rộng rãi",
+					"exam": "thời gian eo hẹp ~ cuộc sống khó khăn, eo hẹp"
+				}
+			},
+			{
+				"HeadWord": "eo óc",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Sound"
+					},
+					"def": "từ gợi tả những tiếng kêu [thường là tiếng gà gáy] cùng nổi lên đây đó, nghe văng vẳng, không rõ",
+					"exam": "tiếng gà trưa eo óc"
+				}
+			},
+			{
+				"HeadWord": "eo óc",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "từ gợi tả những tiếng nói nghe khó chịu phát ra một cách dai dẳng",
+					"exam": "những lời mỉa mai eo óc"
+				}
+			},
+			{
+				"HeadWord": "eo ôi",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "O",
+					"SubCategory": "O"
+				},
+				"Semantic": {
+					"def": "tiếng thốt ra biểu lộ sự kinh hãi, ghê sợ",
+					"exam": "eo ôi, khiếp quá!"
+				}
+			},
+			{
+				"HeadWord": "eo sèo",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Sound"
+					},
+					"def": "từ mô phỏng tiếng người ồn ào, lộn xộn từ xa vọng lại",
+					"exam": "\"Lặn lội thân cò khi quãng vắng, Eo sèo mặt nước buổi đò đông.\" (Trần Tế Xương; 4)"
+				}
+			},
+			{
+				"HeadWord": "eo sèo",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"Synonym": "ỉ eo"
+					},
+					"def": "kêu ca, phàn nàn một cách khó chịu",
+					"exam": "bị vợ eo sèo"
+				}
+			},
+			{
+				"HeadWord": "èo uột",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"After": "R: lắm"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "yếu ớt, bệnh hoạn",
+					"exam": "con bé sinh thiếu tháng nên èo uột lắm"
+				}
+			},
+			{
+				"HeadWord": "ẻo lả",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ai",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "từ gợi tả dáng vẻ yếu ớt như không có sức sống",
+					"exam": "thân hình ẻo lả ~ đứa trẻ ẻo lả, da xanh lướt"
+				}
+			},
+			{
+				"HeadWord": "ẻo lả",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ai",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "từ gợi tả dáng vẻ yểu điệu, thướt tha một cách yếu ớt",
+					"exam": "đi đứng ẻo lả ~ những tia khói thuốc ẻo lả uốn lượn rồi tan biến"
+				}
+			},
+			{
+				"HeadWord": "ẽo à ẽo ợt",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: cứ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "ẽo ợt một cách quá đáng, trông rất khó chịu",
+					"exam": "giọng ẽo à ẽo ợt"
+				}
+			},
+			{
+				"HeadWord": "ẽo ợt",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ai",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "từ gợi tả giọng điệu, dáng vẻ uốn éo một cách không tự nhiên, gây cảm giác khó chịu",
+					"exam": "đi đứng ẽo ợt ~ giọng nói ẽo ợt"
+				}
+			},
+			{
+				"HeadWord": "éo le",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: quá, rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "ngang trái, trái ngang"
+					},
+					"def": "có trắc trở, gặp phải tình cảnh trái với lẽ thường ở đời",
+					"exam": "cảnh ngộ rất éo le ~ mối tình éo le, ngang trái ~ \"Trước đèn xem truyện Tây minh, Gẫm cười hai chữ nhân tình éo le.\" (LVT)"
+				}
+			},
+			{
+				"HeadWord": "ẹo",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"def": "uốn nghiêng sang một bên vì bị đè nặng hoặc để né tránh",
+					"exam": "bế em ẹo cả xương sườn ~ gánh nặng làm ẹo cả vai"
+				}
+			},
+			{
+				"HeadWord": "ép",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đang"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								}
+							}
+						]
+					},
+					"def": "dùng lực tác động lên khắp cả bề mặt để làm cho chặt lại, mỏng đều ra, hoặc để lấy ra chất lỏng",
+					"exam": "bà con ép dừa lấy dầu ~ họ ép mía làm mật"
+				}
+			},
+			{
+				"HeadWord": "ép",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									},
+									{
+										"_att": "categorialMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Content"
+									}
+								]
+							}
+						]
+					},
+					"def": "tác động bằng sức mạnh dồn đối phương về một phía",
+					"exam": "ép quân địch ra hàng ~ ép đối phương vào thế bí"
+				}
+			},
+			{
+				"HeadWord": "ép",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "PP"
+								}
+							]
+						}
+					]
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Act",
+						"Synonym": "nép"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Theme"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Lo"
+									}
+								]
+							}
+						]
+					},
+					"def": "áp thật sát vào",
+					"exam": "Cháu ép đầu vào ngực bà"
+				}
+			},
+			{
+				"HeadWord": "ép",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã, cứ, lại, đừng, không"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									},
+									{
+										"_att": "categorialMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Content"
+									}
+								]
+							}
+						]
+					},
+					"def": "tác động đến, nhằm làm cho phải miễn cưỡng nghe theo, làm theo",
+					"exam": "bố mẹ ép anh cưới vợ"
+				}
+			},
+			{
+				"HeadWord": "ép",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "không được tự nhiên, không đúng theo lẽ thường, vì thật ra chưa đạt đủ điều kiện, yêu cầu",
+					"exam": "chín ép ~ câu thơ ép vần"
+				}
+			},
+			{
+				"HeadWord": "ép buộc",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order",
+						"Synonym": "cưỡng ép",
+						"Antonym": "tự nguyện"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									},
+									{
+										"_att": "categorialMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Content"
+									}
+								]
+							}
+						]
+					},
+					"def": "bắt phải làm điều không muốn hoặc trái với ý muốn",
+					"exam": "Mọi người ép buộc cô phải ra đi"
+				}
+			},
+			{
+				"HeadWord": "ép giá",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "gây sức ép làm cho phải bán với giá rẻ",
+					"exam": "các chủ bao tiêu ép giá người sản xuất"
+				}
+			},
+			{
+				"HeadWord": "ép lòng",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"def": "đành phải làm việc gì đó hoàn toàn trái với ý muốn của mình",
+					"exam": "đành ép lòng nói dối ~ không muốn nhưng cũng ép lòng phải theo"
+				}
+			},
+			{
+				"HeadWord": "ép nài",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob+Obj"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Obj"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "VP"
+								}
+							]
+						}
+					],
+					"Before": "R: đã, cứ, lại"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Dob"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Pa"
+									},
+									{
+										"_att": "categorialMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Obj"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Content"
+									}
+								]
+							}
+						]
+					},
+					"def": {
+						"i": "nài ép",
+						"__text": "như"
+					},
+					"exam": "mẹ cha ép nài cô cưới chồng"
+				}
+			},
+			{
+				"HeadWord": "ép uổng",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Order"
+					},
+					"def": "bắt ép theo một bề một cách nghiệt ngã, bất chấp cả việc người ta phải chịu nhiều đau khổ",
+					"exam": "không ai ép uổng"
+				}
+			},
+			{
+				"HeadWord": "ép xác",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"def": "tự ép mình vào một cuộc sống vất vả, khắc khổ",
+					"exam": "lối sống ép xác"
+				}
+			},
+			{
+				"HeadWord": "ẹp",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "ở vào tình trạng ngả hẳn xuống, như bị ép thật sát xuống",
+					"exam": "nằm ẹp bụng xuống chiếu"
+				}
+			},
+			{
+				"HeadWord": "ephedrine",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Drug"
+					},
+					"def": "một loại alkaloid, dùng làm thuốc chữa hen suyễn và tăng huyết áp"
+				}
+			},
+			{
+				"HeadWord": "epsilon",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "con chữ thứ năm của bảng chữ cái Hi Lạp [ε, E]"
+				}
+			},
+			{
+				"HeadWord": "esperanto",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "ngôn ngữ nhân tạo quốc tế được dùng phổ biến nhất, có từ vựng xây dựng trên cơ sở những căn tố chung của nhiều ngôn ngữ châu Âu"
+				}
+			},
+			{
+				"HeadWord": "ester",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "hợp chất hữu cơ do tác dụng của một acid vào một rượu tạo thành"
+				}
+			},
+			{
+				"HeadWord": "eta",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "con chữ thứ bảy của bảng chữ cái Hi Lạp [η, H]"
+				}
+			},
+			{
+				"HeadWord": "ether",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Drug"
+					},
+					"def": "chất lỏng rất nhẹ, dễ bay hơi, chế từ rượu, thường dùng để hoà tan các chất béo và làm chất gây mê"
+				}
+			},
+			{
+				"HeadWord": "ether",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "tên gọi chung những chất có tính chất giống ether"
+				}
+			},
+			{
+				"HeadWord": "ethylene",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Gas"
+					},
+					"def": "khí không màu có mùi đặc biệt, cháy có ngọn lửa sáng, thường dùng để tổng hợp chất dẻo"
+				}
+			},
+			{
+				"HeadWord": "euro",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "UnitOfCurrency"
+					},
+					"def": "đơn vị tiền tệ cơ bản của các nước thuộc Liên minh châu Âu"
+				}
+			},
+			{
+				"HeadWord": "ê",
+				"Morphology": {
+					"WordType": "symbol"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "con chữ thứ chín của bảng chữ cái chữ quốc ngữ"
+				}
+			},
+			{
+				"HeadWord": "ê",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "có cảm giác đau, mỏi, tê một cách âm ỉ",
+					"exam": "ngã một cái ê cả lưng ~ đau ê ở vai ~ chua ê cả răng"
+				}
+			},
+			{
+				"HeadWord": "ê",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"After": "R: lắm"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "bẽ, tẽn"
+					},
+					"def": "ngượng, thấy hổ thẹn vì bị người ta cười chê",
+					"exam": "thua thì ê lắm ~ mọi người mà biết thì ê mặt"
+				}
+			},
+			{
+				"HeadWord": "ê",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "O",
+					"SubCategory": "O"
+				},
+				"Semantic": {
+					"def": "từ dùng để chế nhạo, cho là không biết ngượng, không biết xấu hổ [thường chỉ dùng nói với trẻ con]",
+					"exam": "ê, lớn rồi mà vẫn còn làm nũng mẹ! ~ ê, ê đồ bắt nạt trẻ con!"
+				}
+			},
+			{
+				"HeadWord": "ê",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "O",
+					"SubCategory": "O"
+				},
+				"Semantic": {
+					"def": "tiếng dùng để gọi ai đó một cách trống không, với ý không coi trọng",
+					"exam": "ê, đi đâu đấy? ~ ê, thằng kia, lại đây tao bảo!"
+				}
+			},
+			{
+				"HeadWord": "ê a",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ao"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Sound"
+					},
+					"def": "từ gợi tả giọng đọc kéo dài, nghe không thật rõ từng tiếng",
+					"exam": "bé ê a đánh vần ~ ru con bằng giọng ê a"
+				}
+			},
+			{
+				"HeadWord": "ê ẩm",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "đau, mỏi khắp cả một cách âm ỉ, kéo dài",
+					"exam": "đau ê ẩm cả người"
+				}
+			},
+			{
+				"HeadWord": "ê chề",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "đau đớn, tủi nhục, chán chường, v.v., đến mức như không còn chịu đựng nổi, không còn thấy thiết gì nữa",
+					"exam": "nhục nhã ê chề ~ \"Làm cho cho mệt, cho mê, Làm cho đau đớn, ê chề, cho coi!\" (TKiều)"
+				}
+			},
+			{
+				"HeadWord": "ê chệ",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "xấu hổ, nhục nhã đến mức như không còn dám nhìn mặt ai",
+					"exam": "người như thế mà đi ăn cắp, rõ ê chệ!"
+				}
+			},
+			{
+				"HeadWord": "ê cu",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái, chiếc"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Accessory"
+					},
+					"def": "đai ốc",
+					"exam": "vặn ê cu"
+				}
+			},
+			{
+				"HeadWord": "ê hề",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "nhiều đến mức thừa thãi, gây cảm giác không dùng vào đâu cho hết được",
+					"exam": "cỗ bàn ê hề ~ thịt cá ê hề"
+				}
+			},
+			{
+				"HeadWord": "ê ke",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái, chiếc"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Furniture"
+					},
+					"def": "đồ dùng để kẻ góc vuông"
+				}
+			},
+			{
+				"HeadWord": "ê kíp",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "nhóm người được tổ chức ra để cùng làm một nhiệm vụ chung nào đó",
+					"exam": "ê kíp lãnh đạo của xí nghiệp ~ cùng trong một ê kíp lái tàu"
+				}
+			},
+			{
+				"HeadWord": "ê mặt",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": {
+						"i": "bẽ mặt",
+						"__text": "như"
+					},
+					"exam": "phải nhiều phen ê mặt với bạn bè"
+				}
+			},
+			{
+				"HeadWord": "ê tô",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Tool"
+					},
+					"def": "dụng cụ để kẹp chặt và giữ các chi tiết trong quá trình gia công và lắp ráp, gồm một giá với hai hàm cặp"
+				}
+			},
+			{
+				"HeadWord": "ề à",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: cứ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[giọng nói, tiếng khóc] trầm và cố ý kéo dài",
+					"exam": "ề à kể lể ~ giọng nói ề à"
+				}
+			},
+			{
+				"HeadWord": "ế",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Antonym": "ăn khách, đắt"
+					},
+					"def": "[hàng hoá] bị đọng lại do không có hoặc chỉ ít người mua, ít người yêu cầu",
+					"exam": "ế hàng ~ nhà hàng ế khách"
+				}
+			},
+			{
+				"HeadWord": "ế",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "đã quá tuổi mà không lấy được vợ, hoặc chồng",
+					"exam": "ế chồng ~ không lấy người này thì lấy người khác, đã ế đâu mà sợ?"
+				}
+			},
+			{
+				"HeadWord": "ế ẩm",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"After": "R: lắm, quá"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[hàng hoá] ế [nói khái quát]",
+					"exam": "hàng họ ế ẩm"
+				}
+			},
+			{
+				"HeadWord": "ếch",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: bầy, chú, con, đàn, lũ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Amphibian"
+					},
+					"def": "loài động vật có xương sống, không đuôi, thân ngắn, da trơn, màu sẫm, sống ở ao đầm, thịt ăn được"
+				}
+			},
+			{
+				"HeadWord": "ếch bà",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: bầy, chú, con, đàn, lũ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Amphibian"
+					},
+					"def": "ếch lớn có tiếng kêu rất to"
+				}
+			},
+			{
+				"HeadWord": "ếch nhái",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: bầy, chú, con, đàn, lũ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Amphibian"
+					},
+					"def": "nhóm động vật có xương sống, da trần, vừa sống ở cạn vừa sống ở nước"
+				}
+			},
+			{
+				"HeadWord": "ệch",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[nằm] ngay đườn người ra ở chỗ nào đó, trông chướng và khó coi",
+					"exam": "nằm ệch ngay ở cửa ra vào"
+				}
+			},
+			{
+				"HeadWord": "êm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất",
+					"After": "R: lắm"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "mềm, dịu, gây cảm giác dễ chịu khi đụng chạm vào",
+					"exam": "đệm êm ~ ghế ngồi rất êm"
+				}
+			},
+			{
+				"HeadWord": "êm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất",
+					"After": "R: lắm"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "nhẹ nhàng trong chuyển động, không gây tiếng động đáng kể",
+					"exam": "xe chạy êm ~ đi rất êm"
+				}
+			},
+			{
+				"HeadWord": "êm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "nhẹ nhàng, nghe dễ chịu hoặc dễ bị thuyết phục",
+					"exam": "giọng hát rất êm ~ nghe nói cũng êm tai, đồng ý"
+				}
+			},
+			{
+				"HeadWord": "êm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[thời tiết] không có hiện tượng biến động, không có mưa gió, cũng không nắng to",
+					"exam": "trời êm, biển lặng ~ được buổi êm trời"
+				}
+			},
+			{
+				"HeadWord": "êm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "yên ổn, không có gì lôi thôi, rắc rối phải giải quyết",
+					"exam": "mọi chuyện đều êm cả ~ trong ấm ngoài êm"
+				}
+			},
+			{
+				"HeadWord": "êm ả",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "êm đềm, yên ả"
+					},
+					"def": "yên tĩnh, không có sự xao động, gây cảm giác dễ chịu [thường nói về cảnh thiên nhiên]",
+					"exam": "trưa hè êm ả ~ dòng sông êm ả trôi ~ trong lòng thốt nhiên êm ả hẳn lại"
+				}
+			},
+			{
+				"HeadWord": "êm ái",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "êm, nhẹ, làm cho có cảm giác dễ chịu",
+					"exam": "bàn tay vuốt ve êm ái ~ tiếng đàn êm ái, du dương"
+				}
+			},
+			{
+				"HeadWord": "êm ấm",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "ấm cúng, ấm êm, đầm ấm, yên ấm"
+					},
+					"def": "[quan hệ trong gia đình] thuận hoà, tốt đẹp",
+					"exam": "gia đình êm ấm"
+				}
+			},
+			{
+				"HeadWord": "êm dịu",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "êm ái và nhẹ nhàng, gây cảm giác dễ chịu",
+					"exam": "giọng nói êm dịu ~ màu xanh êm dịu"
+				}
+			},
+			{
+				"HeadWord": "êm đẹp",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[quan hệ, công việc] được giải quyết tốt đẹp, không xảy ra điều gì không hay",
+					"exam": "mọi chuyện diễn ra êm đẹp ~ cho qua để êm đẹp mọi bề"
+				}
+			},
+			{
+				"HeadWord": "êm đềm",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "êm ả, yên ả"
+					},
+					"def": "yên tĩnh, không có sự xao động, tạo cảm giác yên ổn",
+					"exam": "dòng sông êm đềm ~ \"Êm đềm trướng rủ màn che, Tường đông ong bướm đi về mặc ai.\" (TKiều)"
+				}
+			},
+			{
+				"HeadWord": "êm ro",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "êm ru",
+					"exam": "xe chạy êm ro ~ máy kêu êm ro"
+				}
+			},
+			{
+				"HeadWord": "êm rơ",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "ở trạng thái không có tiếng động, do im lặng hoàn toàn, không động đậy, không hoạt động",
+					"exam": "ngồi êm rơ, không nói chi hết"
+				}
+			},
+			{
+				"HeadWord": "êm ru",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "êm ro"
+					},
+					"def": "rất êm, hầu như không có một tiếng động nào",
+					"exam": "chiếc xe lướt êm ru trên đường"
+				}
+			},
+			{
+				"HeadWord": "êm ru",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "nghe rất êm tai",
+					"exam": "lời nói êm ru ~ tiếng máy chạy êm ru"
+				}
+			},
+			{
+				"HeadWord": "êm ru",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "rất êm, không để xảy ra một sự náo động nào",
+					"exam": "giải quyết mọi việc êm ru"
+				}
+			},
+			{
+				"HeadWord": "êm thấm",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất",
+					"After": "R: rồi"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "ổn thoả"
+					},
+					"def": "[sự việc] được giải quyết suôn sẻ, xong xuôi đâu vào đấy, tránh được xung đột, rắc rối",
+					"exam": "mọi việc đã được giải quyết êm thấm"
+				}
+			},
+			{
+				"HeadWord": "êm xuôi",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap",
+					"Before": "R: rất",
+					"After": "R: rồi"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "[sự việc diễn ra] yên ổn, thuận lợi, không gặp vướng mắc, trở ngại",
+					"exam": "mọi việc có vẻ êm xuôi ~ giải quyết một cách êm xuôi"
+				}
+			},
+			{
+				"HeadWord": "ếm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vt",
+					"SubcategorizationFrame": {
+						"_val": "Sub+V+Dob"
+					},
+					"SyntacticArgument": [
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Sub"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						},
+						{
+							"feat": [
+								{
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								},
+								{
+									"_att": "syntacticConstituent",
+									"_val": "NP"
+								}
+							]
+						}
+					],
+					"Before": "R: đang"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Change"
+					},
+					"SemanticConstraint": {
+						"SynSemArgMap": [
+							{
+								"feat": [
+									{
+										"_att": "syntacticFunction",
+										"_val": "Sub"
+									},
+									{
+										"_att": "semanticRole",
+										"_val": "Agt"
+									},
+									{
+										"_att": "subjectMeaning",
+										"_val": "Person"
+									}
+								]
+							},
+							{
+								"feat": {
+									"_att": "syntacticFunction",
+									"_val": "Dob"
+								}
+							}
+						]
+					},
+					"def": "dùng phép thuật để ngăn trừ ma quỷ, theo mê tín",
+					"exam": "thầy bói ếm bùa"
+				}
+			},
+			{
+				"HeadWord": "ếm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"Synonym": "ám"
+					},
+					"def": "theo bên cạnh, làm mất đi cái may [trong cờ bạc, buôn bán], theo mê tín",
+					"exam": "chưa sáng ra đã đến ếm"
+				}
+			},
+			{
+				"HeadWord": "ếm",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Change"
+					},
+					"def": "dùng phép thuật để hãm hại, theo mê tín"
+				}
+			},
+			{
+				"HeadWord": "ềnh",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": "ở tư thế nằm dài thẳng ra, choán nhiều chỗ, trông không đẹp mắt",
+					"exam": "nằm ềnh ra đất ~ thằng bé lăn ềnh ra ăn vạ"
+				}
+			},
+			{
+				"HeadWord": "ềnh ệch",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": {
+						"i": "ệch",
+						"__text": "như \n [nhưng ý nhấn mạnh hơn]"
+					},
+					"exam": "nằm ềnh ệch ra giữa nhà mà ngủ"
+				}
+			},
+			{
+				"HeadWord": "ềnh ễnh",
+				"Morphology": {
+					"WordType": "reduplicative word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality"
+					},
+					"def": {
+						"i": "ễnh",
+						"__text": "như \n [nhưng ý mức độ nhiều hơn]"
+					},
+					"exam": "bụng chửa ềnh ễnh"
+				}
+			},
+			{
+				"HeadWord": "ễnh",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "phưỡn"
+					},
+					"def": "[bụng] to phình và đưa ra phía trước, trông nặng nề và khó coi",
+					"exam": "chửa ễnh ra ~ bụng trương ễnh lên"
+				}
+			},
+			{
+				"HeadWord": "ễnh ương",
+				"Morphology": {
+					"WordType": "compound word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: bầy, chú, con, đàn, lũ"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Amphibian"
+					},
+					"def": "loài động vật thuộc ếch nhái, giống ếch nhưng nhỏ hơn, miệng bé, bụng lớn, có tiếng kêu rất to"
+				}
+			},
+			{
+				"HeadWord": "êu",
+				"Morphology": {
+					"WordType": "simple word"
+				},
+				"Syntactic": {
+					"Category": "O",
+					"SubCategory": "O"
+				},
+				"Semantic": {
+					"def": "tiếng dùng để gọi chó với ý thân mật"
+				}
+			},
+			{
+				"HeadWord": "f",
+				"Morphology": {
+					"WordType": "symbol"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "[đọc là \"ép phờ\" hoặc \"ép\"] con chữ của bảng chữ cái Latin, dùng để phiên âm một số từ mượn của tiếng nước ngoài, hoặc viết nguyên dạng các thuật ngữ khoa học có tính quốc tế trong tiếng Việt"
+				}
+			},
+			{
+				"HeadWord": "F",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"def": "Fahrenheit [viết tắt]"
+				}
+			},
+			{
+				"HeadWord": "F",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Gas"
+					},
+					"def": "kí hiệu hoá học của nguyên tố fluor [flo]"
+				}
+			},
+			{
+				"HeadWord": "fa",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"Synonym": "pha"
+					},
+					"def": "tên nốt nhạc thứ tư, sau mi, trong gam do bảy âm"
+				}
+			},
+			{
+				"HeadWord": "Fahrenheit",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept",
+						"Synonym": "nhiệt độ Fahrenheit, thang nhiệt độ Fahrenheit"
+					},
+					"def": {
+						"i": "thang nhiệt độ Fahrenheit",
+						"__text": "xem"
+					}
+				}
+			},
+			{
+				"HeadWord": "fan",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Person"
+					},
+					"def": "người hâm mộ",
+					"exam": "một fan bóng đá cuồng nhiệt ~ fan hâm mộ"
+				}
+			},
+			{
+				"HeadWord": "farad",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "UnitOfMetrical"
+					},
+					"def": "đơn vị đo điện dung, bằng điện dung của một tụ điện khi có điện lượng một coulomb thì hiệu điện thế giữa hai bản cực là một volt"
+				}
+			},
+			{
+				"HeadWord": "fastfood",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "đồ ăn được chế biến và phục vụ rất nhanh ở một số nhà hàng"
+				}
+			},
+			{
+				"HeadWord": "fát xít",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "A",
+					"SubCategory": "Ap"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Quality",
+						"Synonym": "phát xít"
+					},
+					"def": {
+						"i": "phát xít",
+						"__text": "xem"
+					},
+					"exam": "chế độ fát xít"
+				}
+			},
+			{
+				"HeadWord": "fax",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "phương thức truyền đi xa và sao lại các văn bản, sơ đồ, hình ảnh bằng vô tuyến điện hoặc bằng đường dây",
+					"exam": "gửi bản thiết kế bằng fax"
+				}
+			},
+			{
+				"HeadWord": "Fe",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Solid"
+					},
+					"def": {
+						"i": "sắt",
+						"__text": "kí hiệu hoá học của nguyên tố \n [L: ferrum]"
+					}
+				}
+			},
+			{
+				"HeadWord": "feldspar",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Material"
+					},
+					"def": "khoáng vật tạo đá phổ biến nhất, có thành phần là silicat, nhôm, kiềm và vôi, thường có màu sáng, xám nhạt và trắng, dùng làm nguyên liệu sản xuất đồ sứ"
+				}
+			},
+			{
+				"HeadWord": "ferrite",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Material"
+					},
+					"def": "hợp chất có oxide sắt, có từ tính, dùng làm vật liệu trong kĩ thuật vô tuyến điện tử"
+				}
+			},
+			{
+				"HeadWord": "festival",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept",
+						"Synonym": "liên hoan"
+					},
+					"def": "ngày hội có tính chất quốc gia hay quốc tế, giới thiệu những thành tựu nghệ thuật âm nhạc, sân khấu, điện ảnh, v.v.",
+					"exam": "festival điện ảnh"
+				}
+			},
+			{
+				"HeadWord": "fibrociment",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "vật liệu xây dựng làm bằng xi măng trong đó cát được thay thế bằng sợi và bột amianthus, thường dùng để lợp nhà"
+				}
+			},
+			{
+				"HeadWord": "file",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"Synonym": "tập tin, tệp tin"
+					},
+					"def": {
+						"i": "tập tin",
+						"__text": "xem"
+					},
+					"exam": "mở file mới ra xem"
+				}
+			},
+			{
+				"HeadWord": "flo",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Gas",
+						"Synonym": "fluor"
+					},
+					"def": {
+						"i": "fluor",
+						"__text": "xem"
+					}
+				}
+			},
+			{
+				"HeadWord": "fluor",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Gas",
+						"Synonym": "flo"
+					},
+					"def": "khí độc màu lục nhạt, có nhiều hợp chất hữu cơ dùng làm chất dẻo, chất làm lạnh và chất chữa cháy"
+				}
+			},
+			{
+				"HeadWord": "fluorure",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "hợp chất của fluor với một nguyên tố khác"
+				}
+			},
+			{
+				"HeadWord": "FOB",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "điều kiện buôn bán quốc tế theo đó người bán hàng chịu trách nhiệm giao hàng lên tàu tại cảng quy định"
+				}
+			},
+			{
+				"HeadWord": "FOB",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": {
+						"i": "CIF",
+						"__text": "giá giao hàng lên tàu, bao gồm giá bản thân hàng hoá và mọi chi phí đến khi giao hàng lên tàu mà không bao gồm tiền chuyên chở, bảo hiểm; phân biệt với"
+					}
+				}
+			},
+			{
+				"HeadWord": "folklor",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "văn học, nghệ thuật và những truyền thống dân gian của một dân tộc [nói tổng quát]"
+				}
+			},
+			{
+				"HeadWord": "foot",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "UnitOfMetrical"
+					},
+					"def": "đơn vị đo độ dài của các nước Anh - Mĩ, bằng 12 inch, tức 0,3048 mét"
+				}
+			},
+			{
+				"HeadWord": "forceps",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Tool"
+					},
+					"def": "dụng cụ y tế có dạng cặp, thường dùng để cặp lấy thai trong trường hợp đẻ khó"
+				}
+			},
+			{
+				"HeadWord": "formaldehyde",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Gas"
+					},
+					"def": "khí không màu, mùi cay, tan trong nước, có tính sát trùng, dùng để chế formol"
+				}
+			},
+			{
+				"HeadWord": "format",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "V",
+					"SubCategory": "Vu"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"Synonym": "định dạng"
+					},
+					"def": {
+						"i": "định dạng",
+						"__text": "xem"
+					}
+				}
+			},
+			{
+				"HeadWord": "formica",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt"
+				},
+				"Semantic": {
+					"def": "chất dẻo có khả năng chịu được nhiệt độ cao, được làm thành tấm, dùng để phủ bề mặt của các đồ vật như bàn ghế, giường tủ hoặc bảng viết, v.v."
+				}
+			},
+			{
+				"HeadWord": "formol",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: giọt"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Liquid"
+					},
+					"def": "dung dịch formaldehyde trong nước, dùng để ướp xác, tẩy uế, tổng hợp chất dẻo"
+				}
+			},
+			{
+				"HeadWord": "FTP",
+				"Morphology": {
+					"WordType": "abbreviation"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Na"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Concept"
+					},
+					"def": "phương thức trao đổi tập tin giữa hai hay nhiều máy tính trong một mạng máy tính [như Internet, Intranet], có thể cho phép một số thao tác như đổi tên tập tin, xoá tập tin, tạo thư mục, v.v."
+				}
+			},
+			{
+				"HeadWord": "fula",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: chiếc"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Raiment",
+						"Synonym": "phu la"
+					},
+					"def": {
+						"i": "phu la",
+						"__text": "xem"
+					}
+				}
+			},
+			{
+				"HeadWord": "fuy",
+				"Morphology": {
+					"WordType": "loan word"
+				},
+				"Syntactic": {
+					"Category": "N",
+					"SubCategory": "Nt",
+					"Before": "Nc: cái"
+				},
+				"Semantic": {
+					"LogicalConstraint": {
+						"CategorialMeaning": "Furniture",
+						"Synonym": "phuy"
+					},
+					"def": {
+						"i": "phuy",
+						"__text": "xem"
+					}
+				}
+			}
+		]
+	}
+}
