@@ -1,0 +1,1829 @@
+{
+  "Document": {
+    "Entry": [
+      {
+        "HeadWord": "i",
+        "Morphology": {
+          "WordType": "symbol"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "def": "con chữ thứ mười hai của bảng chữ cái chữ quốc ngữ"
+        }
+      },
+      {
+        "HeadWord": "I",
+        "Morphology": {
+          "WordType": "abbreviation"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Solid"
+          },
+          "def": {
+            "#text": "kí hiệu hoá học của nguyên tố",
+            "i": "iode"
+          }
+        }
+      },
+      {
+        "HeadWord": "I",
+        "Morphology": {
+          "WordType": "symbol"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "def": "chữ 1 trong chữ số La Mã"
+        }
+      },
+      {
+        "HeadWord": "i tờ",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "chữ i và chữ t [những chữ đầu tiên dạy cho người bắt đầu học chữ, theo cách dạy của bình dân học vụ]; thường dùng để chỉ những bài học chữ quốc ngữ đầu tiên",
+          "exam": "học i tờ ~ dạy lớp i tờ"
+        }
+      },
+      {
+        "HeadWord": "i tờ",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "có trình độ hiểu biết còn rất hạn chế, có thể nói là chưa biết gì",
+          "exam": "trình độ i tờ"
+        }
+      },
+      {
+        "HeadWord": "ì",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": "ở nguyên tại chỗ, không hề nhúc nhích, mặc dù bị đẩy hoặc kéo mạnh"
+        }
+      },
+      {
+        "HeadWord": "ì",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "lì"
+          },
+          "def": "giữ nguyên trạng thái, thái độ, không hề thay đổi, kể cả khi có tác động mạnh từ bên ngoài",
+          "exam": "nằm ì một chỗ ~ ai nói gì cũng ì ra"
+        }
+      },
+      {
+        "HeadWord": "ì à ì ạch",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "rất ì ạch, gây cảm giác khó chịu, mệt mỏi"
+        }
+      },
+      {
+        "HeadWord": "ì ạch",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound"
+          },
+          "def": "từ mô phỏng tiếng thở ngắt quãng, nặng nề và khó nhọc",
+          "exam": "vừa làm vừa thở ì ạch"
+        }
+      },
+      {
+        "HeadWord": "ì ạch",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ai",
+          "Before": "R: đang, vẫn"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "ậm à ậm ạch, ậm ạch"
+          },
+          "def": "từ gợi tả dáng vẻ khó nhọc, nặng nề trong hoạt động, chuyển động, thường do phải mang vác nặng",
+          "exam": "chiếc xe đang ì ạch bò lên dốc"
+        }
+      },
+      {
+        "HeadWord": "ì ầm",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound",
+            "Synonym": "ầm ì"
+          },
+          "def": "từ mô phỏng tiếng động trầm và kéo dài, lúc to lúc nhỏ không đều nhau từ xa vọng lại",
+          "exam": "sóng biển ì ầm ~ súng nổ ì ầm suốt ngày"
+        }
+      },
+      {
+        "HeadWord": "ì oạp",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound",
+            "Synonym": "oàm oạp"
+          },
+          "def": "từ mô phỏng tiếng nước vỗ mạnh và liên tiếp vào vật cứng, âm thanh lúc to lúc nhỏ",
+          "exam": "sóng vỗ ì oạp"
+        }
+      },
+      {
+        "HeadWord": "ì xèo",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vs",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": [
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            },
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            }
+          ],
+          "Before": "R: đang, lại",
+          "After": "O: về"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "xì xèo"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": [
+              {
+                "feat": [
+                  "",
+                  "",
+                  ""
+                ]
+              },
+              {
+                "feat": ""
+              }
+            ]
+          },
+          "def": "bàn tán nhỏ to qua lại",
+          "exam": "hàng xóm ì xèo chuyện của cô"
+        }
+      },
+      {
+        "HeadWord": "ì xèo",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "phô trương, ồn ào quá mức",
+          "exam": "một đám cưới rình rang, ì xèo ~ ăn nhậu ì xèo"
+        }
+      },
+      {
+        "HeadWord": "ỉ",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: bầy, chú, con, đàn, lũ"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Mammal"
+          },
+          "def": "lợn ỉ [nói tắt]",
+          "exam": "nuôi mấy con ỉ"
+        }
+      },
+      {
+        "HeadWord": "ỉ eo",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao",
+          "Before": "R: cứ"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound"
+          },
+          "def": "từ gợi tả những âm thanh nhỏ và kéo dài, gây cảm giác sốt ruột, khó chịu",
+          "exam": "ỉ eo xin tiền ~ khóc ỉ eo"
+        }
+      },
+      {
+        "HeadWord": "ỉ eo",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vs",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": [
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            },
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            }
+          ],
+          "Before": "R: vẫn, cứ, lại"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "eo sèo"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": [
+              {
+                "feat": [
+                  "",
+                  "",
+                  ""
+                ]
+              },
+              {
+                "feat": ""
+              }
+            ]
+          },
+          "def": "tỏ ý trách móc, không vừa lòng bằng cách nói đi nói lại nhiều lời một cách khó chịu",
+          "exam": "nó ỉ eo trách móc tôi"
+        }
+      },
+      {
+        "HeadWord": "ỉ ê",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "từ gợi tả tiếng khóc nhỏ, dai dẳng và ỉ eo một cách khó chịu [thường nói về trẻ con]",
+          "exam": "thằng bé đói sữa khóc ỉ ê"
+        }
+      },
+      {
+        "HeadWord": "í a í ới",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": {
+            "#text": "như[nhưng với ý liên tiếp]",
+            "i": "í ới"
+          }
+        }
+      },
+      {
+        "HeadWord": "í oẳng",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound"
+          },
+          "def": "từ mô phỏng tiếng chó kêu liên tiếp, to nhỏ không đều"
+        }
+      },
+      {
+        "HeadWord": "í ới",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound",
+            "Synonym": "ơi ới"
+          },
+          "def": "từ mô phỏng tiếng nhiều người gọi nhau ồn ào, nghe không rõ lắm",
+          "exam": "gọi nhau í ới"
+        }
+      },
+      {
+        "HeadWord": "ị",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vi",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": {
+            "feat": [
+              "",
+              ""
+            ]
+          },
+          "Before": "R: đang"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Physiology"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": {
+              "feat": [
+                "",
+                "",
+                ""
+              ]
+            }
+          },
+          "def": "ỉa [nói về trẻ con]",
+          "exam": "nó đang ị"
+        }
+      },
+      {
+        "HeadWord": "ị",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "phị, xị"
+          },
+          "def": "béo đến mức thịt như chảy xệ xuống [hàm ý chê]",
+          "exam": "béo ị ~ người càng ngày càng ị ra"
+        }
+      },
+      {
+        "HeadWord": "ỉa",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vi",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": {
+            "feat": [
+              "",
+              ""
+            ]
+          },
+          "Before": "R: đang"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "PhysicalActivity",
+            "Synonym": "đại tiện, đi cầu, đi đại tiện, đi đồng, đi ngoài, đi tiêu"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": {
+              "feat": [
+                "",
+                "",
+                ""
+              ]
+            }
+          },
+          "def": "thải phân ra ngoài cơ thể qua hậu môn",
+          "exam": "ông ấy đang ỉa"
+        }
+      },
+      {
+        "HeadWord": "ỉa chảy",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Physiology",
+            "Synonym": "đi tả, tiêu chảy"
+          },
+          "def": "[bệnh] ỉa phân lỏng như nước",
+          "exam": "bệnh nhân bị ỉa chảy"
+        }
+      },
+      {
+        "HeadWord": "IC",
+        "Morphology": {
+          "WordType": "abbreviation"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept",
+            "Synonym": "mạch tích hợp"
+          },
+          "def": {
+            "#text": "xem",
+            "i": "mạch tích hợp"
+          }
+        }
+      },
+      {
+        "HeadWord": "ích",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept",
+            "Synonym": "ích lợi, lợi",
+            "Antonym": "vô ích"
+          },
+          "def": "cái có lợi, có tác dụng, hiệu quả tốt",
+          "exam": "loài chim có ích ~ sống có ích ~ việc đã lỡ rồi, có tiếc cũng không ích gì!"
+        }
+      },
+      {
+        "HeadWord": "ích kỉ",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap",
+          "Before": "R: rất"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "ích kỷ, vị kỉ, vị kỷ",
+            "Antonym": "vị tha"
+          },
+          "def": "chỉ nghĩ đến, chỉ vì lợi cho riêng mình mà không biết đến người khác",
+          "exam": "tính rất ích kỉ ~ con người ích kỉ"
+        }
+      },
+      {
+        "HeadWord": "ích kỷ",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap",
+          "Before": "R: rất"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "ích kỉ, vị kỉ, vị kỷ",
+            "Antonym": "vị tha"
+          },
+          "def": {
+            "#text": "xem",
+            "i": "ích kỉ"
+          }
+        }
+      },
+      {
+        "HeadWord": "ích lợi",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept",
+            "Synonym": "lợi ích"
+          },
+          "def": "điều có ích, có lợi [nói khái quát]",
+          "exam": "ích lợi của sự học ~ việc làm đó, chẳng ích lợi gì!"
+        }
+      },
+      {
+        "HeadWord": "ích mẫu",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: cây"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Herb"
+          },
+          "def": "cây thân cỏ cùng họ với bạc hà, lá hình chân vịt mọc đối, hoa màu đỏ hay tím, thân, lá và quả dùng làm thuốc",
+          "exam": "cao ích mẫu"
+        }
+      },
+      {
+        "HeadWord": "ích xì",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "lối chơi cờ bạc bằng các quân bài tây"
+        }
+      },
+      {
+        "HeadWord": "im",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "yên"
+          },
+          "def": "ở trạng thái không có biểu hiện của hoạt động, không có sự di động, di chuyển",
+          "exam": "đứng im ~ nằm im, không động đậy ~ trời im gió"
+        }
+      },
+      {
+        "HeadWord": "im",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "lặng"
+          },
+          "def": "ở trạng thái không có tiếng động phát ra",
+          "exam": "thằng bé đã im, không khóc nữa ~ lớp học im phăng phắc"
+        }
+      },
+      {
+        "HeadWord": "im ả",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "ở trạng thái yên tĩnh, đem lại cảm giác dễ chịu",
+          "exam": "trưa hè im ả"
+        }
+      },
+      {
+        "HeadWord": "im ắng",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": {
+            "#text": "như",
+            "i": "yên ắng"
+          },
+          "exam": "bốn bề im ắng"
+        }
+      },
+      {
+        "HeadWord": "im bặt",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "im hẳn một cách đột ngột",
+          "exam": "tiếng súng im bặt ~ tiếng ồn ào bỗng dưng im bặt"
+        }
+      },
+      {
+        "HeadWord": "im ỉm",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "ở trạng thái hoàn toàn không có tiếng động phát ra, tựa như không có một biểu hiện nào của hoạt động",
+          "exam": "cửa đóng im ỉm ~ im ỉm như miệng hến"
+        }
+      },
+      {
+        "HeadWord": "im lặng",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "lặng im"
+          },
+          "def": "im, không nói, không phát ra tiếng động",
+          "exam": "im lặng quan sát"
+        }
+      },
+      {
+        "HeadWord": "im lặng",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "không có một hành động hay phản ứng gì trước sự việc đáng lẽ phải tỏ thái độ, phải có phản ứng",
+          "exam": "không thể im lặng trước hành vi ngang ngược"
+        }
+      },
+      {
+        "HeadWord": "im lìm",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "ở trạng thái hoàn toàn không có tiếng động, tựa như không có biểu hiện gì của sự sống",
+          "exam": "ngồi im lìm như pho tượng ~ tứ bề vắng vẻ, im lìm"
+        }
+      },
+      {
+        "HeadWord": "im phắc",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "lặng im, không một tiếng nói, không một tiếng động",
+          "exam": "cả khán phòng im phắc lắng nghe"
+        }
+      },
+      {
+        "HeadWord": "im phăng phắc",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "hoàn toàn im lặng, không có một tiếng động",
+          "exam": "bốn bề im phăng phắc"
+        }
+      },
+      {
+        "HeadWord": "im re",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "im thít"
+          },
+          "def": "im lặng, không dám có thái độ hoặc phản ứng gì",
+          "exam": "bị quát một tiếng thì im re ~ ngồi im re"
+        }
+      },
+      {
+        "HeadWord": "im thin thít",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": {
+            "#text": "như[nhưng ý nhấn mạnh hơn]",
+            "i": "im thít"
+          },
+          "exam": "nằm im thin thít, không dám cử động"
+        }
+      },
+      {
+        "HeadWord": "im thít",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "im re"
+          },
+          "def": "im lặng hoàn toàn, không nói năng, không để có một tiếng động nào phát ra cả [thường do sợ hoặc do đuối lí]",
+          "exam": "sợ quá, ngồi im thít"
+        }
+      },
+      {
+        "HeadWord": "ỉm",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vt",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": [
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            },
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            }
+          ],
+          "Before": "R: đã"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "ém, ém nhẹm"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": [
+              {
+                "feat": [
+                  "",
+                  "",
+                  ""
+                ]
+              },
+              {
+                "feat": ""
+              }
+            ]
+          },
+          "def": "giấu đi, không để lộ ra, không cho ai biết, khiến cho người ta tưởng là không có chuyện gì xảy ra",
+          "exam": "nó ỉm thư đi ~ ỉm đơn khiếu nại ~ ỉm chuyện"
+        }
+      },
+      {
+        "HeadWord": "in",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": "tạo ra nhiều bản bằng các phương pháp, công nghệ khác nhau",
+          "exam": "vải in hoa ~ in ảnh"
+        }
+      },
+      {
+        "HeadWord": "in",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vs",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": [
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            },
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            }
+          ],
+          "Before": "R: đã"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Receive"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": [
+              {
+                "feat": ""
+              },
+              {
+                "feat": ""
+              }
+            ]
+          },
+          "def": "hằn sâu, đến mức khó có thể phai mờ trong tâm trí",
+          "exam": "những kỉ niệm in sâu trong tâm trí tôi"
+        }
+      },
+      {
+        "HeadWord": "in",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "UnitOfMetrical"
+          },
+          "def": "inch [viết tắt]"
+        }
+      },
+      {
+        "HeadWord": "in ấn",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "ấn loát"
+          },
+          "def": "in [nói khái quát]",
+          "exam": "in ấn sách báo ~ công nghệ in ấn"
+        }
+      },
+      {
+        "HeadWord": "in hệt",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "giống hệt nhau, giống như in",
+          "exam": "hai bức tranh in hệt nhau"
+        }
+      },
+      {
+        "HeadWord": "in ỉn",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": {
+            "#text": "như[nhưng với ý liên tiếp]",
+            "i": "ỉn"
+          },
+          "exam": "con lợn kêu in ỉn"
+        }
+      },
+      {
+        "HeadWord": "in ít",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "hơi ít",
+          "exam": "ngần này thì hơi in ít"
+        }
+      },
+      {
+        "HeadWord": "in như",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vs",
+          "SubcategorizationFrame": "",
+          "SyntacticArgument": [
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            },
+            {
+              "feat": [
+                "",
+                ""
+              ]
+            }
+          ]
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Compare"
+          },
+          "SemanticConstraint": {
+            "SynSemArgMap": [
+              {
+                "feat": [
+                  "",
+                  "",
+                  ""
+                ]
+              },
+              {
+                "feat": ""
+              }
+            ]
+          },
+          "def": "giống hệt như",
+          "exam": "hai đứa in như nhau, từ vóc dáng đến tính tình"
+        }
+      },
+      {
+        "HeadWord": "ìn ịt",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Physiology"
+          },
+          "def": {
+            "#text": "như[nhưng với ý liên tiếp]",
+            "i": "ịt"
+          },
+          "exam": "con lợn kêu ìn ịt"
+        }
+      },
+      {
+        "HeadWord": "ỉn",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": "từ mô phỏng tiếng lợn kêu nhỏ khi đòi ăn"
+        }
+      },
+      {
+        "HeadWord": "inch",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "UnitOfMetrical"
+          },
+          "def": "đơn vị đo độ dài của nước Anh và các nước nói tiếng Anh, bằng 2,54cm",
+          "exam": "ti vi 21 inch"
+        }
+      },
+      {
+        "HeadWord": "inh",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "[âm thanh] vang và to đến mức chói tai, gây cảm giác khó chịu",
+          "exam": "thấy động, đàn chó sủa inh lên ~ \"Khắp làng đồn inh lên rằng anh Tại bây giờ giầu sang lắm.\" (Tô Hoài; 24)"
+        }
+      },
+      {
+        "HeadWord": "inh",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "[mùi khai, thối] xông lên mạnh và toả rộng ra",
+          "exam": "thối inh cả nhà"
+        }
+      },
+      {
+        "HeadWord": "inh ỏi",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "[tiếng kêu, réo] vang to, lộn xộn và chói tai",
+          "exam": "bóp còi inh ỏi ~ la hét inh ỏi ~ khóc inh ỏi"
+        }
+      },
+      {
+        "HeadWord": "inh tai",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "[âm thanh] vang và to, gây cảm giác chói tai, khó chịu",
+          "exam": "tiếng nổ inh tai"
+        }
+      },
+      {
+        "HeadWord": "inh tai nhức óc",
+        "Morphology": {
+          "WordType": "multiword expression"
+        },
+        "Syntactic": {
+          "Category": "X",
+          "SubCategory": "X"
+        },
+        "Semantic": {
+          "def": "[tiếng động] vang to, ầm ĩ, tác động mạnh vào thính giác đến mức không chịu được, làm choáng váng",
+          "exam": "tiếng búa nện inh tai nhức óc"
+        }
+      },
+      {
+        "HeadWord": "ình oàng",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ao"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Sound",
+            "Synonym": "ùng oàng"
+          },
+          "def": "từ mô phỏng tiếng động liên tiếp, to và rền",
+          "exam": "tiếng sấm ình oàng ~ đại bác ình oàng suốt đêm"
+        }
+      },
+      {
+        "HeadWord": "inox",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: mảnh, miếng, tấm, thanh"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Solid"
+          },
+          "def": "thép không gỉ",
+          "exam": "đồng hồ vỏ inox"
+        }
+      },
+      {
+        "HeadWord": "input",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "quá trình đưa thông tin vào máy tính để dùng cho các mục đích xử lí; phân biệt với output"
+        }
+      },
+      {
+        "HeadWord": "Internet",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "hệ thống gồm các mạng máy tính được nối với nhau trên phạm vi toàn thế giới, tạo điều kiện cho các dịch vụ truyền thông dữ liệu, như tìm đọc thông tin từ xa, truyền các tệp tin, thư tín điện tử và các nhóm thông tin"
+        }
+      },
+      {
+        "HeadWord": "Intranet",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "mạng nội bộ hệ thống các máy tính được liên kết với nhau, hoạt động theo nguyên tắc của Internet"
+        }
+      },
+      {
+        "HeadWord": "iode",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Substance"
+          },
+          "def": "đơn chất rắn, màu xám xanh, có ánh kim, tan nhiều trong rượu, thường dùng để chế thuốc sát trùng"
+        }
+      },
+      {
+        "HeadWord": "ion",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "nguyên tử hoặc nhóm nguyên tử bị mất đi hoặc được thêm một hay nhiều electron"
+        }
+      },
+      {
+        "HeadWord": "ion hoá",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": "biến các phân tử, nguyên tử khí thành các ion"
+        }
+      },
+      {
+        "HeadWord": "iota",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "def": "con chữ thứ chín của bảng chữ cái Hi Lạp [ι, I]"
+        }
+      },
+      {
+        "HeadWord": "ISO",
+        "Morphology": {
+          "WordType": "abbreviation"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Np"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "tên gọi tắt tổ chức tiêu chuẩn hoá quốc tế; thường dùng để chỉ hệ thống tiêu chuẩn quốc tế về quản lí công nghệ, làm căn cứ cho các tổ chức, doanh nghiệp xây dựng hệ thống quản lí chất lượng của mình",
+          "exam": "bộ tiêu chuẩn ISO 9000 ~ sản phẩm đã được cấp chứng chỉ ISO 9002"
+        }
+      },
+      {
+        "HeadWord": "IT",
+        "Morphology": {
+          "WordType": "abbreviation"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept",
+            "Synonym": "công nghệ thông tin"
+          },
+          "def": {
+            "#text": "xem",
+            "i": "công nghệ thông tin"
+          }
+        }
+      },
+      {
+        "HeadWord": "ít",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "có số lượng nhỏ hoặc ở mức thấp",
+          "exam": "chỉ còn một ít ~ ít nói ~ ít tiếp xúc với bên ngoài ~ của ít lòng nhiều (tng)"
+        }
+      },
+      {
+        "HeadWord": "ít lâu",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Time"
+          },
+          "def": "một thời gian không lâu",
+          "exam": "mới về cách đây ít lâu ~ \"Đành lòng chờ đó ít lâu, Chầy chăng là một năm sau, vội gì!\" (TKiều)"
+        }
+      },
+      {
+        "HeadWord": "ít nhất",
+        "Morphology": {
+          "WordType": "multiword expression"
+        },
+        "Syntactic": {
+          "Category": "X",
+          "SubCategory": "X"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "chí ít, ít ra"
+          },
+          "def": "với mức thấp nhất thì cũng phải là như thế",
+          "exam": "việc này, ít nhất phải một tuần mới xong"
+        }
+      },
+      {
+        "HeadWord": "ít nhiều",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "ở mức độ nào đó, chẳng nhiều thì ít, nhưng là có",
+          "exam": "thay đổi ít nhiều ~ việc đó cũng có ít nhiều hi vọng"
+        }
+      },
+      {
+        "HeadWord": "ít nữa",
+        "Morphology": {
+          "WordType": "multiword expression"
+        },
+        "Syntactic": {
+          "Category": "X",
+          "SubCategory": "X"
+        },
+        "Semantic": {
+          "def": "một thời gian không lâu nữa, sắp tới",
+          "exam": "ít nữa rồi ai cũng biết ~ ít nữa nghỉ hè sẽ đưa cả gia đình đi du lịch"
+        }
+      },
+      {
+        "HeadWord": "ít ỏi",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap",
+          "Before": "R: quá, rất"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Synonym": "ít oi"
+          },
+          "def": "ít, không đáng kể",
+          "exam": "tiền lương ít ỏi ~ vốn hiểu biết còn ít ỏi"
+        }
+      },
+      {
+        "HeadWord": "ít ra",
+        "Morphology": {
+          "WordType": "multiword expression"
+        },
+        "Syntactic": {
+          "Category": "X",
+          "SubCategory": "X"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "Synonym": "chí ít, ít nhất"
+          },
+          "def": {
+            "#text": "như[nhưng ý khẳng định nhẹ hơn]",
+            "i": "ít nhất"
+          },
+          "exam": "bài này ít ra cũng phải được 8 điểm"
+        }
+      },
+      {
+        "HeadWord": "ịt",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "V",
+          "SubCategory": "Vu"
+        },
+        "Semantic": {
+          "def": "từ mô phỏng tiếng lợn kêu nhỏ và ngắn"
+        }
+      },
+      {
+        "HeadWord": "iu ỉu",
+        "Morphology": {
+          "WordType": "compound word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "hơi ỉu",
+          "exam": "bánh đa đã iu ỉu ~ mặt iu ỉu buồn"
+        }
+      },
+      {
+        "HeadWord": "ỉu",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality",
+            "Antonym": "giòn"
+          },
+          "def": "mềm đi, không giòn, do bị ẩm, bị thấm nước",
+          "exam": "ỉu như bánh đa nhúng nước"
+        }
+      },
+      {
+        "HeadWord": "ỉu",
+        "Morphology": {
+          "WordType": "simple word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap",
+          "After": "R: lắm"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "trở nên trầm lặng, không còn vui vẻ, hăng hái nữa, do có điều không vừa ý",
+          "exam": "bị điểm kém nên cu cậu ỉu lắm ~ buồn ỉu mặt"
+        }
+      },
+      {
+        "HeadWord": "ỉu xìu",
+        "Morphology": {
+          "WordType": "reduplicative word"
+        },
+        "Syntactic": {
+          "Category": "A",
+          "SubCategory": "Ap"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Quality"
+          },
+          "def": "ỉu đến mức xẹp hẳn xuống, rũ hẳn xuống, không thể tươi lên được",
+          "exam": "bánh đa ỉu xìu ~ giọng ỉu xìu xìu ~ mặt ỉu xìu"
+        }
+      },
+      {
+        "HeadWord": "J",
+        "Morphology": {
+          "WordType": "abbreviation"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "UnitOfMetrical"
+          },
+          "def": "joule [viết tắt]"
+        }
+      },
+      {
+        "HeadWord": "jacket",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: cái, chiếc",
+          "After": "Pd: ấy, đấy, đó, kia, này"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Raiment"
+          },
+          "def": "áo khoác, thường dài đến hông, có tay"
+        }
+      },
+      {
+        "HeadWord": "javel",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: giọt"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Liquid",
+            "Synonym": "nước javel, nước javen"
+          },
+          "def": {
+            "#text": "xem",
+            "i": "nước javel"
+          }
+        }
+      },
+      {
+        "HeadWord": "jazz",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "thể loại nhạc có tiết tấu mạnh mẽ, với những sự ứng tác của cá nhân hay tập thể, có nguồn gốc từ những người Mĩ gốc Phi"
+        }
+      },
+      {
+        "HeadWord": "jeep",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt"
+        },
+        "Semantic": {
+          "def": "xe jeep [nói tắt]"
+        }
+      },
+      {
+        "HeadWord": "jiujitsu",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "môn võ truyền thống của Nhật Bản dùng để tự vệ và tiến công, vận dụng những kiến thức về giải phẫu học và nguyên tắc đòn bẩy để dùng sức mạnh và trọng lượng của bản thân đối thủ chống lại đối thủ"
+        }
+      },
+      {
+        "HeadWord": "joule",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "UnitOfMetrical",
+            "Synonym": "joule"
+          },
+          "def": "đơn vị đo công, đo năng lượng bằng công được tạo nên khi một lực 1 newton dời điểm đặt 1 mét theo hướng của lực"
+        }
+      },
+      {
+        "HeadWord": "judo",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Na"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Concept"
+          },
+          "def": "môn võ hình thành trên cơ sở của võ jiujitsu Nhật Bản, phát triển thành một hình thức thể thao và một phương pháp tự vệ bằng tay không, chủ yếu dùng các thế quăng, quật để đánh ngã đối thủ"
+        }
+      },
+      {
+        "HeadWord": "jun",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nu"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "UnitOfMetrical",
+            "Synonym": "jun"
+          },
+          "def": {
+            "#text": "xem",
+            "i": "joule"
+          }
+        }
+      },
+      {
+        "HeadWord": "jupe",
+        "Morphology": {
+          "WordType": "loan word"
+        },
+        "Syntactic": {
+          "Category": "N",
+          "SubCategory": "Nt",
+          "Before": "Nc: cái, chiếc, bộ",
+          "After": "Pd: ấy, đấy, đó, kia, này"
+        },
+        "Semantic": {
+          "LogicalConstraint": {
+            "CategorialMeaning": "Raiment"
+          },
+          "def": "váy ngắn",
+          "exam": "mặc jupe"
+        }
+      }
+    ]
+  }
+}
