@@ -59,7 +59,7 @@ def tokenize_gpt2(doc):
     return tokens_np_uint
 
 def tokenize_vi(doc):
-    tokenizer = GPT2TokenizerFast.from_pretrained("/llm.c/dev/data/bpe_tokenizer_20k_gpt-2")
+    tokenizer = GPT2TokenizerFast.from_pretrained("/llm.c/dev/data/bpe_tokenizer_20k")
     encode = lambda s: tokenizer.encode(s, add_special_tokens=False, verbose=False)
     eot = tokenizer.eos_token_id # tokenizer.encode('')[0] # by default the tokenizer adds the EOT token (128000)
     tokens = [eot] # the special <|endoftext|> token delimits all documents
@@ -105,7 +105,6 @@ if __name__ == '__main__':
         fw = load_dataset("HuggingFaceFW/fineweb-edu", name=remote_name, split="train")
         name = "edu_fineweb"
     elif args.type =="wiki":
-        # fw = load_dataset("bkai-foundation-models/BKAINewsCorpus", split="train")
         fw = load_dataset("wikimedia/wikipedia", "20231101.vi", split="train")
         name = "wiki"
     elif args.type =="bkai":
