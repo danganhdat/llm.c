@@ -59,7 +59,7 @@ def tokenize_gpt2(doc):
     return tokens_np_uint
 
 def tokenize_vi(doc):
-    tokenizer = GPT2TokenizerFast.from_pretrained("/llm.c/dev/data/bpe_tokenizer_20k")
+    tokenizer = GPT2TokenizerFast.from_pretrained("/llm.c/dev/data/bpe_tokenizer_19957")
     encode = lambda s: tokenizer.encode(s, add_special_tokens=False, verbose=False)
     eot = tokenizer.eos_token_id # tokenizer.encode('')[0] # by default the tokenizer adds the EOT token (128000)
     tokens = [eot] # the special <|endoftext|> token delimits all documents
